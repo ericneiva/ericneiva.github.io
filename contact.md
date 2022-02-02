@@ -1,18 +1,19 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+ERIC Miranda NEIVA
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* Centre Interdisciplinaire de Recherche en Biologie (CIRB)
+* Collège de France
+* Centre National de la Recherche Scientifique (CNRS)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+11 place Marcelin Berthelot 75231 PARIS CEDEX 05 -- France 
 
+<a href="mailto:eric.miranda-neiva@college-de-france.fr">eric.miranda-neiva@college-de-france.fr</a>
 
-[jekyll-organization]: https://github.com/jekyll
+<a href="mailto:eric.miranda-neiva@college-de-france.fr">eric.miranda-neiva@cnrs.fr</a>
+
++33(0)144271763
