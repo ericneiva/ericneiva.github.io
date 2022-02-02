@@ -1,0 +1,30 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+
+  - title: info
+    entries:
+      - title: postdoctoral researcher at <a href='https://turlierlab.com'>TurlierLab</a>
+        entries:
+          - title: on finite elements for cell morphogenesis
+          - title: at Collège de France and CNRS, Paris
+      - title: more about me
+        url: about
+      - title: <a href="mailto:eric.miranda-neiva@college-de-france.fr">eric.miranda-neiva@college-de-france.fr</a>
+      - title: mailing address
+        url: contact
+
+  - title: research interests
+    entries:
+      - title: unfitted finite elements
+      - title: fluid deformable surfaces
+      - title: coupled surface-bulk problems
+      - title: large scale fe solvers
+      - title: parallel tree-based meshes
+      - title: scientific computing in Julia
+  - title: <a href='https://scholar.google.com/citations?user=B15AoQoAAAAJ&hl'>publications</a>
+  - title: activity
+    entries:
+      - title: <a href='https://github.com/ericneiva'>github</a>
+      - title: <a href='https://twitter.com/ericnumerics'>twitter</a>
