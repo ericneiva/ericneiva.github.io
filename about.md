@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a **postdoctoral researcher** at [Hervé Turlier's research group](https://www.turlierlab.com/) of the [Centre Interdisciplinaire de Recherche en Biologie (CIRB)](https://www.college-de-france.fr/site/en-cirb/index.htm).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+*How do cells form embryos?*
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I help biologists and physicists shedding light on this question by designing novel and cutting-edge **finite element methods**.
 
+I have a PhD from the Universitat Politècnica de Catalunya (UPC) in Barcelona. My [PhD thesis](https://upcommons.upc.edu/handle/2117/330735) was on large-scale tree-based unfitted finite elements for metal additive manufacturing.
 
-[jekyll-organization]: https://github.com/jekyll
+I hold a double degree in mathematics and civil engineering from the Centre de Formació Interdisciplinària Superior (CFIS) of the UPC.
