@@ -22,7 +22,7 @@ title: Eric Neiva
 author: Eric Neiva
 email: eric.miranda-neiva@college-de-france.fr
 description: > # description of the site (multiple lines allowed)
-  Postdoc on finite elements for cell morphogenesis at Collège de France
+  Eric Neiva | Postdoc on finite elements for cell morphogenesis at CIRB, Collège de France
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://ericneiva.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ericnumerics
