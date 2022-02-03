@@ -26,7 +26,7 @@ description: > # description of the site (multiple lines allowed)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://ericneiva.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ericnumerics
-github_username:  ericneiva
+github_username: ericneiva
 
 logo: /assets/img/EricNeiva.jpeg
 
