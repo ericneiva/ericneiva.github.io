@@ -1,0 +1,59 @@
+/*!
+ * Custom Julia theme.
+ *
+ * @theme julia
+ * @author Eric Neiva
+ *
+ */
+
+@import 'gaia';
+
+@font-face {
+  font-family: JuliaMono;
+  src: url("https://cdn.jsdelivr.net/gh/cormullion/juliamono/webfonts/JuliaMono-Regular.woff2");
+}
+
+code {
+  font-family: JuliaMono, monospace;
+}
+
+table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img + br + em {
+  font-size: 50%;
+  vertical-align: top;
+  content: "+";
+}
+
+img[src*='#center'] { 
+  display: block;
+  text-align: center;
+  margin: auto;
+}
+
+.caption-text-erc{
+  width: 650px; /* you have to have a size or this method doesn't work */
+
+  font-size: 50%;
+  text-align: justify;
+  text-justify: inter-word;
+
+  position: absolute;
+
+  top: 80%; right: 0; /* confuse it i guess */
+  bottom: 0; left: 0;
+  margin: auto; /* make em equal */
+}
+
+.centered-video{
+  width: 640px; /* you have to have a size or this method doesn't work */
+  height: 385px; /* think about making these max-width instead - might give you some more responsiveness */
+
+  top: 0; right: 0; /* confuse it i guess */
+  bottom: 0; left: 0;
+  margin: auto; /* make em equal */
+}

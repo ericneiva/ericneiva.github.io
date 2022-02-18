@@ -23,8 +23,16 @@ entries:
       - title: large scale fe solvers
       - title: parallel tree-based meshes
       - title: scientific computing in Julia
+  
   - title: <a href='https://scholar.google.com/citations?user=B15AoQoAAAAJ&hl'>publications</a>
+  
   - title: activity
     entries:
+      - title: posts
+        post_list:
+          limit: 5
+          show_more: true
+          show_more_text: See archive...
+          show_more_url: archive.html
       - title: <a href='https://github.com/ericneiva'>github</a>
       - title: <a href='https://twitter.com/ericnumerics'>twitter</a>
