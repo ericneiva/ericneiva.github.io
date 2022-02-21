@@ -36,7 +36,7 @@ img[src*='#center'] {
 }
 
 .caption-text-erc{
-  width: 650px; /* you have to have a size or this method doesn't work */
+  width: 700px; /* you have to have a size or this method doesn't work */
 
   font-size: 50%;
   text-align: justify;
@@ -44,7 +44,7 @@ img[src*='#center'] {
 
   position: absolute;
 
-  top: 80%; right: 0; /* confuse it i guess */
+  top: 70%; right: 0; /* confuse it i guess */
   bottom: 0; left: 0;
   margin: auto; /* make em equal */
 }
@@ -56,4 +56,18 @@ img[src*='#center'] {
   top: 0; right: 0; /* confuse it i guess */
   bottom: 0; left: 0;
   margin: auto; /* make em equal */
+}
+
+.erc-funding {
+  display: grid;
+  width: 100%;
+  grid-template-columns: 120px 450px;
+  align-items: center;
+  justify-content: center;
+}
+
+.col:nth-child(2) {
+  font-size: 30%;
+  text-align: justify;
+  text-justify: inter-word;
 }

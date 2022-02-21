@@ -5,19 +5,30 @@ class: invert
 _class: lead
 paginate: true
 _paginate: false
-header: 'Eric Neiva | Intro to Julia | TurlierLab g.m. | 17-02-2022'
+header: 'Eric Neiva | Intro to Julia | TurlierLab | 17-02-2022'
 _header: ''
 footer: '![h:40](logos/virtual_embryo.png) &nbsp; ![h:40](logos/logos.png)'
-_footer: ''
+_footer: '*Introduction to Julia* by [Eric Neiva](ericneiva.com) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)'
 ---
 
 # Introduction to Julia
 
-Eric Neiva | TurlierLab group meeting | 17-02-2022
+Eric Neiva | TurlierLab | 17-02-2022
 
 <br />
 
 ![h:120](logos/virtual_embryo.png) &nbsp; ![h:120](logos/logos.png)
+
+<br />
+
+<div class="erc-funding">
+  <div class="col">
+    <img src="logos/LOGO_ERC-FLAG_EU_.jpg" alt="Acknowledgement of EU funding" width="100"> 
+  </div>
+  <div class="col">
+    This material is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 949267).
+  </div>
+</div>
 
 ---
 
@@ -87,8 +98,8 @@ To answer this, we need to review
 # <!-- fit --> Trade-off performance and productivity
 
 For computationally-demanding applications (e.g., FEs):
-- "Hybrid" software applications, e.g., fenics: 
-  - ``python`` front-end + ``c++`` back-end
+- "Hybrid" software applications:
+  - E.g., ``python`` front-end + ``c++`` back-end
   - *two-language problem* > limited extensibility and prototyping
 - Julia *potentially* provides better balance
   - performance and productivity _in a single environment_
@@ -215,17 +226,13 @@ Julia comes with a full-featured interactive command-line REPL (read-eval-print 
 
 # Documentation
 
-![bg right:40% 80%](imgs/usemanual.png)
-
 Julia is well-documented
 
 [Julia documentation](https://docs.julialang.org/en/v1/)
 
 It comprises an excellent manual
 
-[Manual / Getting started](https://docs.julialang.org/en/v1/manual/getting-started/)
-
-👆 USE IT!
+[Manual / Getting started](https://docs.julialang.org/en/v1/manual/getting-started/) 👈 USE IT!
 
 ---
 
@@ -394,35 +401,26 @@ It comprises an excellent manual
 
 # Announcements
 
-- 1h webinar: [End-to-End Machine Learning Workflow using Julia](https://form.jotform.com/220323104390440)
-  - _Today_, Feb 17 at 18:00 CET
 - [SciMLCon 2022](https://scimlcon.org/2022/)
   - _free and virtual_ on Mar 23 15:00-23:00 CET
 - [Google Summer Of Code 2022](https://summerofcode.withgoogle.com/)
   - Funded  and mentored online "interships" in an open source organization
   - Applications open April 4 - 19 👈
 
----
-
-# Questions?
-
-<br />
-
-<div class="centered-video">
-  <iframe width="640" height="385" src="https://www.youtube.com/embed/1WxsTfiUxxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+# And that's all! Thank you!
 ---
 
 <!-- 
 _class: lead
 _paginate: false
 _header: ' '
-_footer: ' '
+_footer: ''
 -->
 
-![bg width:10cm](logos/LOGO_ERC-FLAG_EU_.jpg#center)
+![width:10cm](logos/LOGO_ERC-FLAG_EU_.jpg)
 
 <div class="caption-text-erc">
 This material is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 949267).
+
+Except where otherwise noted, this work and its contents (texts and illustrations) are licensed under the Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 </div>
