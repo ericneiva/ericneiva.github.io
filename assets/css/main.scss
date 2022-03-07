@@ -6,8 +6,9 @@
 /* Put any custom CSS here */
 
 @font-face {
-    font-family: JuliaMono-Regular;
-    src: url("https://cdn.jsdelivr.net/gh/cormullion/juliamono/webfonts/JuliaMono-Regular.woff2");
+  font-family: JuliaMono-Regular;
+  src: url("https://cdn.jsdelivr.net/gh/cormullion/juliamono/webfonts/JuliaMono-Regular.woff2");
+  font-display: swap;
 }
 
 body {
