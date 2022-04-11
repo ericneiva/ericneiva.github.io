@@ -7,7 +7,12 @@ layout: default
     <p>{{ site.description }}</p>
   {%-endif-%}
   {% if site.logo %}
-  <img src="{{site.logo | relative_url}}" alt="Near the summit of Mount Bishop, VIC, Oz" style="width:33vw; max-width:330px; border-radius:30px;" />
+  <img src="/assets/img/EricNeiva.jpeg"
+       srcset="/assets/img/EricNeiva-small.jpg 256w,
+               /assets/img/EricNeiva.jpeg 512w"
+       alt="Near the summit of Mount Bishop, VIC, Oz" 
+       style="width:33vw; height:auto; max-width:330px; border-radius:30px;"
+  />
   {% endif %}
 </header>
 
