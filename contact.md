@@ -12,10 +12,10 @@ ERIC Miranda NEIVA
 
 11 place Marcelin Berthelot 75231 PARIS CEDEX 05 -- France 
 
-<a href="mailto:eric.neiva@college-de-france.fr">eric.neiva@college-de-france.fr</a>
+eric.neiva [at] college-de-france.fr
 
-<a href="mailto:eric.miranda-neiva@college-de-france.fr">eric.miranda-neiva@college-de-france.fr</a>
+eric.miranda-neiva [at] college-de-france.fr
 
-<a href="mailto:eric.miranda-neiva@college-de-france.fr">eric.miranda-neiva@cnrs.fr</a>
+eric.miranda-neiva [at] cnrs.fr
 
 +33(0)144271763
