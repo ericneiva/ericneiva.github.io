@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a **postdoctoral researcher** at [Hervé Turlier's research group](https://www.turlierlab.com/) of the [Centre Interdisciplinaire de Recherche en Biologie (CIRB)](https://www.college-de-france.fr/site/en-cirb/index.htm).
 
-*How do cells form embryos?*
+*How do single cells form embryos?*
 
 I help biologists and physicists shedding light on this question. To this end, I design novel and cutting-edge **finite element methods** targeting active flows on deformable surfaces.
 
