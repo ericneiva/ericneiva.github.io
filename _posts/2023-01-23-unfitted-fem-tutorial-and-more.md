@@ -3,11 +3,13 @@ layout: post
 category: example
 ---
 
-I have recently added a step-by-step and commented [unfitted Poisson FEM tutorial](https://gridap.github.io/Tutorials/dev/pages/t019_unfitted_poisson/#Tutorial-19:-Unfitted-Poisson-1) to Gridap. This tutorial is intended to guide Gridap users willing to use the unfitted FEM machinery available at [GridapEmbedded](https://github.com/gridap/GridapEmbedded.jl). Check it out!
+I have recently added a step-by-step and commented [unfitted Poisson FEM tutorial](https://gridap.github.io/Tutorials/dev/pages/t019_unfitted_poisson/#Tutorial-19:-Unfitted-Poisson-1) to Gridap. 
+
+This tutorial is intended to guide Gridap users willing to use the unfitted FEM machinery available at [GridapEmbedded](https://github.com/gridap/GridapEmbedded.jl). Check it out!
 
 Then, I thought I would take the occasion to briefly highlight some **recent review presentations and preprints on unfitted FEM**:
 
-*If you are not entirely familiar with FEM:*
+* *If you are not entirely familiar with FEM:*
 
 You can check
 
@@ -15,7 +17,7 @@ You can check
 
 Thanks again to the organisers for their kind invitation!
 
-*If you know a good deal about FEM:*
+* *If you know a good deal about FEM:*
 
 I recommend you
 
@@ -23,7 +25,7 @@ I recommend you
 
 [Santiago Badia](https://research.monash.edu/en/persons/santiago-badia-rodriguez) is full professor at CIMNE and Monash University _and_ Gridap co-creator!
 
-*But if you what really want to get into the details:*
+* *But if what you really want to get into the details:*
 
 Other than some references in my slides and Santi's video, I strongly recommend you the recent preprint 
 
