@@ -25,7 +25,7 @@ I recommend you
 
 [Santiago Badia](https://research.monash.edu/en/persons/santiago-badia-rodriguez) is full professor at CIMNE and Monash University _and_ Gridap co-creator!
 
-* *But if what you really want to get into the details:*
+* *But if what you really want is to get into the details:*
 
 Other than some references in my slides and Santi's video, I strongly recommend you the recent preprint 
 
