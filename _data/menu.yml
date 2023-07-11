@@ -5,7 +5,7 @@ entries:
 
   - title: info
     entries:
-      - title: postdoctoral researcher at <a href='https://turlierlab.com'>TurlierLab</a>
+      - title: MSCA postdoctoral fellow at <a href='https://turlierlab.com'>TurlierLab</a>
         entries:
           - title: on finite elements for cell morphogenesis
           - title: at <a href='https://www.college-de-france.fr/site/en-cirb/index.htm'>CIRB</a>, Collège de France and CNRS, Paris
@@ -18,8 +18,10 @@ entries:
   - title: research interests
     entries:
       - title: unfitted finite elements
-      - title: fluid deformable surfaces
+      - title: cell and tissue morphogenesis
+      - title: cell polarity > mechanochemical patterning
       - title: coupled surface-bulk problems
+      - title: fluid deformable surfaces
       - title: large scale fe solvers
       - title: parallel tree-based meshes
       - title: scientific computing in Julia
