@@ -13,3 +13,5 @@ I help biologists and physicists shedding light on this question. To this end, I
 I have a PhD from the Universitat Politècnica de Catalunya (UPC) in Barcelona. My [PhD thesis](https://upcommons.upc.edu/handle/2117/330735) was on large-scale tree-based unfitted finite elements for metal additive manufacturing.
 
 I hold a double degree in mathematics and civil engineering from the Centre de Formació Interdisciplinària Superior (CFIS) of the UPC.
+
+[CV]({{ site.baseurl }}{% link cv/Eric_Neiva_CV.pdf %})

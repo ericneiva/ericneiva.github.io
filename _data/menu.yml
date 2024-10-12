@@ -14,6 +14,8 @@ entries:
       - title: eric.neiva [at] college-de-france.fr
       - title: full contact details
         url: contact
+      - title: cv
+        url: cv/Eric_Neiva_CV.pdf
 
   - title: research interests
     entries:
