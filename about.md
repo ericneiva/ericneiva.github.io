@@ -14,4 +14,4 @@ I have a PhD from the Universitat Politècnica de Catalunya (UPC) in Barcelona. 
 
 I hold a double degree in mathematics and civil engineering from the Centre de Formació Interdisciplinària Superior (CFIS) of the UPC.
 
-[Curriculum Vitae (CV)]({{ site.baseurl }}{% link cv/Eric_Neiva_CV.pdf %})
+**Curriculum Vitae (CV)** [full]({{ site.baseurl }}{% link cv/Eric_Neiva_CV.pdf %}) [abridged]({{ site.baseurl }}{% link cv/Eric_Neiva_CV_short.pdf %})

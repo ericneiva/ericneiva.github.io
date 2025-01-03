@@ -7,28 +7,34 @@ entries:
     entries:
       - title: MSCA postdoctoral fellow at <a href='https://turlierlab.com'>TurlierLab</a>
         entries:
-          - title: on finite elements for cell morphogenesis
+          - title: on computational modelling of coupled surface-bulk flows in animal cells
           - title: at <a href='https://www.college-de-france.fr/site/en-cirb/index.htm'>CIRB</a>, Collège de France and CNRS, Paris
       - title: more about me
         url: about
       - title: eric.neiva [at] college-de-france.fr
       - title: full contact details
         url: contact
-      - title: Curriculum Vitae (CV)
-        url: cv/Eric_Neiva_CV.pdf
+      - title: CURRICULUM VITAE (CV)
+        entries:
+          - title: full
+            url: cv/Eric_Neiva_CV.pdf
+          - title: abridged
+            url: cv/Eric_Neiva_CV_short.pdf
 
   - title: research interests
     entries:
-      - title: unfitted finite elements
-      - title: cell and tissue morphogenesis
-      - title: cell polarity > mechanochemical patterning
-      - title: coupled surface-bulk problems
-      - title: fluid deformable surfaces
-      - title: large scale fe solvers
-      - title: parallel tree-based meshes
+      - title: numerical analysis of mixed-dimensional PDEs
+      - title: unfitted or immersed-boundary methods
+      - title: cell and tissue animal morphogenesis
+      - title: large scale finite element solvers
+      - title: parallel tree-based adaptive meshes
       - title: scientific computing in Julia
   
-  - title: <a href='https://scholar.google.com/citations?user=B15AoQoAAAAJ&hl'>publications</a>
+  - title: publications
+    entries:
+      - title: <a href='https://scholar.google.com/citations?user=B15AoQoAAAAJ&hl'>Scholar</a>
+      - title: <a href='https://arxiv.org/a/neiva_e_1.html'>arXiv</a>
+      - title: <a href='https://orcid.org/0000-0002-1220-9624'>ORCID</a>
   
   - title: activity
     entries:
@@ -39,4 +45,5 @@ entries:
           show_more_text: See archive...
           show_more_url: archive.html
       - title: <a href='https://github.com/ericneiva'>github</a>
+      - title: <a href='https://bsky.app/profile/ericneiva.bsky.social'>bluesky</a>
       - title: <a href='https://twitter.com/ericnumerics'>twitter</a>
