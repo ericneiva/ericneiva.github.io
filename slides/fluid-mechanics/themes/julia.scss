@@ -1,0 +1,113 @@
+/*!
+ * Custom Julia theme.
+ *
+ * @theme julia
+ * @author Eric Neiva
+ *
+ */
+
+@import 'gaia';
+
+@font-face {
+  font-family: JuliaMono;
+  src: url("https://cdn.jsdelivr.net/gh/cormullion/juliamono/webfonts/JuliaMono-Regular.woff2");
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
+
+section {
+  font-family: Roboto, Lato, sans-serif;
+}
+
+code {
+  font-family: JuliaMono, monospace;
+}
+
+table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img + br + em {
+  font-size: 50%;
+  vertical-align: top;
+  content: "+";
+}
+
+img[src*='#center'] { 
+  display: block;
+  text-align: center;
+  margin: auto;
+}
+
+.caption-text-erc{
+  width: 700px; /* you have to have a size or this method doesn't work */
+
+  font-size: 50%;
+  text-align: justify;
+  text-justify: inter-word;
+
+  position: absolute;
+
+  top: 70%; right: 0; /* confuse it i guess */
+  bottom: 0; left: 0;
+  margin: auto; /* make em equal */
+}
+
+.centered-video{
+  width: 640px; /* you have to have a size or this method doesn't work */
+  height: 385px; /* think about making these max-width instead - might give you some more responsiveness */
+
+  top: 0; right: 0; /* confuse it i guess */
+  bottom: 0; left: 0;
+  margin: auto; /* make em equal */
+}
+
+.erc-funding {
+  display: grid;
+  width: 100%;
+  grid-template-columns: 120px 450px;
+  align-items: center;
+  justify-content: center;
+}
+
+.col:nth-child(2) {
+  font-size: 30%;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.tinyfootnote{
+  font-size: 40%;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.tinyfootnote-2{
+  font-size: 30%;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.center-footnote {
+  display: grid;
+  width: 100%;
+  grid-template-columns: 500px;
+  align-items: center;
+  justify-content: center;
+}
+
+.footnote{
+  font-size: 60%;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.scriptsize{
+  font-size: 70%;
+  text-align: justify;
+  text-justify: inter-word;
+}
